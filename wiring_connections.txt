@@ -1,0 +1,13 @@
+*BMP280
+VCC -> 5V
+GND -> GND
+SCL -> A5 or SCL
+SDA -> A4 or SDA
+
+*SD Card Adapter
+C5 -> 10
+SCK -> 13
+MOSI -> 11
+MOSO -> 12
+VCC -> 5V
+GND -> GND
